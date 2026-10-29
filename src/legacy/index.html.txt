@@ -33,7 +33,7 @@
           <button class="nav-item" data-nav="income"><span class="nav-icon">⌁</span><span>Income</span></button>
           <button class="nav-item" data-nav="profile"><span class="nav-icon">◉</span><span>Profile</span></button>
         </nav>
-        <div class="rail-footnote"><span class="live-dot"></span> Live</div>
+        <div class="rail-footnote"></div>
       </aside>
       <main class="main-content">
         <div id="app" aria-live="polite"></div>
